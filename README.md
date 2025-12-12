@@ -59,25 +59,26 @@
 
 ---
 
-## 📊 My GitHub Activity:
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paarshviv12&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=paarshviv12&theme=merko&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarshviv12&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=paarshviv12&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=paarshviv12&theme=merko&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paarshviv12&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paarshviv12&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=paarshviv12&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 ### ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
