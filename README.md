@@ -57,6 +57,8 @@
 
 ---
 
+---
+
 ## 📊 My GitHub Activity:
 
 <p align="center">
@@ -66,11 +68,13 @@
 </p>
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paarshviv12&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
