@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif" alt="Kirby Flying GIF" width="300"/>
 </div>
-### ✨What Do I Do? 🤔✨:
-### ✨ Design, Code, & Interactive Experiences
+# ✨What Do I Do? 🤔✨:
+* **✨ Design, Code, & Interactive Experiences**
 
 ---
 
