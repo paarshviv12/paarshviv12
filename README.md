@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif" alt="Kirby Flying GIF" width="150"/>
-</div>
-
 # 👋 Hey there, I'm Paarshvi Vijoy!
 
+<div align="center">
+  <img src="https://media.tenor.com/t23gPPRJKTMAAAAi/kirby-on-a-warp-star.gif" alt="Kirby Flying GIF" width="300"/>
+</div>
+### ✨What Do I Do? 🤔✨:
 ### ✨ Design, Code, & Interactive Experiences
 
 ---
